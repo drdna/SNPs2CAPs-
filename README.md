@@ -1,4 +1,4 @@
-# SNPs2CAPs-
+# SNPs2CAPs
 
 SNPs2CAPs.pl reads a list of SNP positions between two genomes, grabs the corresponding SNP and flanking sequence from the relevant genome and identifies those where the SNP causes a restriction site polymorphism.
 
